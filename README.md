@@ -120,10 +120,6 @@ E-Wallet-Payment-System/
 | `/api/transaction/send`| POST   | Send Money            |
 | `/api/transaction/receive`| POST | Receive Money         |
 
-## 📸 Screenshots
-
-> (Add UI screenshots here)
-
 ## 🧪 Testing
 
 - Use Postman or frontend UI to test authentication and wallet operations.
