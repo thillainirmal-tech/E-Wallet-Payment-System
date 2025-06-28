@@ -1,0 +1,1 @@
+SELECT * FROM wallet_db.wallet;
