@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/node_modules.failed
 /.pnp
 .pnp.js
 
@@ -21,3 +22,20 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Java and Maven
+target/
+**/target/
+*.class
+*.jar
+
+# IDEs and local configuration
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+.env
+.env.*
+!.env.example
