@@ -34,7 +34,7 @@ const Dashboard = () => {
       loadBalance();
       loadTransactions();
     }
-  }, []);
+  }, [navigate, token]);
 
   const loadBalance = () => {
     getBalance()
