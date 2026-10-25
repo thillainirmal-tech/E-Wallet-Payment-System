@@ -1,6 +1,9 @@
 
 # 💳 E-Wallet Payment System
 
+[![CI](https://github.com/thillainirmal-tech/E-Wallet-Payment-System/actions/workflows/ci.yml/badge.svg)](https://github.com/thillainirmal-tech/E-Wallet-Payment-System/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/thillainirmal-tech/E-Wallet-Payment-System)](LICENSE)
+
 A secure and user-friendly E-Wallet Payment System built with **Spring Boot** and **React**, featuring **JWT authentication**, **MySQL** database integration, **Flyway** for database migrations, and a clean **Material UI** frontend.
 
 ## 🚀 Features
